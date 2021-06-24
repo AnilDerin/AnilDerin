@@ -3,7 +3,7 @@
 
 <h4 align="left"> I'm a Jr. Frontend Developer </h4>
 <h4 align="left">Welcome to my Github Profile!‍🙋🏻‍♂️ </h4>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anilderin&label=Profile%20views&color=0e75b6&style=flat" alt="anilderin" /> </p>
 <p align="left"> <a href="https://twitter.com/aderinbay" target="blank"><img src="https://img.shields.io/twitter/follow/aderinbay?logo=twitter&style=for-the-badge" alt="aderinbay" /></a> </p>
 - 👨‍💻 All of my projects are available at <a href = "https://github.com/AnilDerin" https://github.com/AnilDerin>
 github.com/AnilDerin
