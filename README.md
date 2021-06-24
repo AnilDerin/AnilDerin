@@ -3,7 +3,6 @@
 <img align="center" alt="GIF" src="" width="200" height="300" />
 <h4 align="left"> I'm a Jr. Frontend Developer </h4>
 <h4 align="left">Welcome to my Github Profile!‍🙋🏻‍♂️ </h4>
-- 👨‍💻 All of my projects are available at [github.com/anilderin](github.com/anilderin)
 
 
 ## Connect with me:
