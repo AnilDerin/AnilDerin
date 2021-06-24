@@ -1,8 +1,9 @@
 
 <h1 align="left">Hi, I'm Anıl  👋 </h1>
-<img align="center" alt="GIF" src="https://im4.ezgif.com/tmp/ezgif-4-f816d2651db7.webp" width="200" height="300" />
+<img align="center" alt="GIF" src="" width="200" height="300" />
 <h4 align="left"> I'm a Jr. Frontend Developer </h4>
 <h4 align="left">Welcome to my Github Profile!‍🙋🏻‍♂️ </h4>
+- 👨‍💻 All of my projects are available at [github.com/anilderin](github.com/anilderin)
 
 
 ## Connect with me:
