@@ -4,7 +4,7 @@
 <h4 align="left"> I'm a Jr. Frontend Developer </h4>
 <h4 align="left">Welcome to my Github Profile!‍🙋🏻‍♂️ </h4>
 - 👨‍💻 All of my projects are available at <a href = "https://github.com/AnilDerin" https://github.com/AnilDerin>
-My GitHub Profile
+github.com/AnilDerin
 <p align="left">
 
 <a href = "https://github.com/AnilDerin"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
