@@ -1,16 +1,22 @@
 
 <h1 align="left">Hi, I'm Anıl  👋 </h1>
 
-<h4 align="left"> I'm a Jr. Frontend Developer </h4>
+<h4 align="left"> I'm a Jr. Android Developer (Kotlin) </h4>
 <h4 align="left">Welcome to my Github Profile!‍🙋🏻‍♂️ </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilderin&label=Profile%20views&color=0e75b6&style=flat" alt="anilderin" /> </p>
-<p align="left"> <a href="https://twitter.com/aderinbay" target="blank"><img src="https://image.flaticon.com/icons/png/512/124/124021.png" alt="aderinbay" /></a> </p>
-- 👨‍💻 All of my projects are available at <a href = "https://github.com/AnilDerin" https://github.com/AnilDerin>
+
+<p align="left"> - 🌱 I’m currently learning Java,Kotlin
+<p align="left"> - 👯 I'm looking forward to working on Android Application Development  
+<p align="left">  </p> -  👨‍💻 All of my projects are available at <a href = "https://github.com/AnilDerin" https://github.com/AnilDerin>
 github.com/AnilDerin
+
 <p align="left">
+ 
+ 
 
 <a href = "https://github.com/AnilDerin"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/aderinbay/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://twitter.com/aderinbay" target="blank"><img width="40px" src="https://image.flaticon.com/icons/png/512/124/124021.png" alt="aderinbay" /></a>
 
 </p>
 
