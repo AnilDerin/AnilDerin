@@ -13,7 +13,7 @@ github.com/AnilDerin
 <p align="left">
  
  
-
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = "https://github.com/AnilDerin"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/aderinbay/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href="https://twitter.com/aderinbay" target="blank"><img width="40px" src="https://image.flaticon.com/icons/png/512/124/124021.png" alt="aderinbay" /></a>
