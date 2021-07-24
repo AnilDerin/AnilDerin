@@ -14,7 +14,7 @@ github.com/AnilDerin
  
  
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = "https://github.com/AnilDerin"><img width = '56px' align= 'center' src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/aderinbay/"><img width = '56px' align= 'center' src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/aderinbay/"><img width = '56px' align= 'center' src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = 'https://www.twitter.com/aderinbay'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
 
