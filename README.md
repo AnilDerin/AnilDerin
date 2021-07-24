@@ -30,6 +30,7 @@ github.com/AnilDerin
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>  
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
+<img width ='44px' align='center' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/512px-React.svg.png'>
 
 
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>
@@ -40,6 +41,11 @@ github.com/AnilDerin
 
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
+<img width ='44px' align='center' src ='https://cdn.worldvectorlogo.com/logos/kotlin-1.svg'>
+<img width ='44px' align='center' src ='https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/300px-Java_Logo.svg.png'>
+<img width ='44px' align='center' src ='https://miro.medium.com/max/1024/1*I6F19w6Lc0sQZWTGP3xigg.png'>
+ 
+ 
 
 <br>
 </p>
