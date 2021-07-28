@@ -7,10 +7,10 @@
 
 <p align="left"> - 🌱 I’m currently learning Java,Kotlin
 <p align="left"> - 👯 I'm looking forward to work on Android Application Development  
-<p align="left"> - 📫 How to reach me <a href = "aderinbay54@gmail.com"> aderinbay54@gmail.com </p>
+<p align="left"> - 📫 How to reach me <a href = "aderinbay54@gmail.com"> aderinbay54@gmail.com </a>
  
 <p align="left"> -  👨‍💻 All of my projects are available at <a href = "https://github.com/AnilDerin">
-github.com/AnilDerin
+ github.com/AnilDerin </p>
  
 
 <p align="left">
