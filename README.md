@@ -6,9 +6,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilderin&label=Profile%20views&color=0e75b6&style=flat" alt="anilderin" /> </p>
 
 <p align="left"> - 🌱 I’m currently learning Java,Kotlin
-<p align="left"> - 👯 I'm looking forward to working on Android Application Development  
-<p align="left">  </p> -  👨‍💻 All of my projects are available at <a href = "https://github.com/AnilDerin" https://github.com/AnilDerin>
+<p align="left"> - 👯 I'm looking forward to work on Android Application Development  
+<p align="left"> - 📫 How to reach me <a href = "aderinbay54@gmail.com"> aderinbay54@gmail.com </p>
+ 
+<p align="left"> -  👨‍💻 All of my projects are available at <a href = "https://github.com/AnilDerin">
 github.com/AnilDerin
+ 
 
 <p align="left">
  
