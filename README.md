@@ -5,7 +5,7 @@
 <h4 align="left"> Welcome to my Github Profile! 🙋🏻‍♂️ </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilderin&label=Profile%20views&color=0e75b6&style=flat" alt="anilderin" /> </p>
 
-<p align="left"> - 🌱 I’m currently learning Java,Kotlin
+<p align="left"> - 🌱 I’m currently learning Kotlin and Jetpack Compose
 <p align="left"> - 👯 I'm looking forward to work on Android Application Development  
 <p align="left"> - 📫 How to reach me aderinbay54@gmail.com
  
