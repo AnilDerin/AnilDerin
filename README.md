@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi, I'm Anıl  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
-<h4 align="left"> I'm a Jr. Android Developer (Java-Kotlin) </h4>
+<h4 align="left"> I'm a Jr. Android Developer </h4>
 <h4 align="left"> Welcome to my Github Profile! 🙋🏻‍♂️ </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilderin&label=Profile%20views&color=0e75b6&style=flat" alt="anilderin" /> </p>
 
