@@ -1,12 +1,12 @@
 
 <h1 align="left">Hi, I'm Anıl  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
-<h4 align="left"> I'm a Jr. Android Developer </h4>
+<h4 align="left"> I'm a Unity Game Developer </h4>
 <h4 align="left"> Welcome to my Github Profile! 🙋🏻‍♂️ </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilderin&label=Profile%20views&color=0e75b6&style=flat" alt="anilderin" /> </p>
 
-<p align="left"> - 🌱 I’m currently learning Kotlin and Jetpack Compose
-<p align="left"> - 👯 I'm looking forward to work on Android Application Development  
+<p align="left"> - 🌱 I’m currently learning Unity and C#
+<p align="left"> - 👯 I'm looking forward to work on Unity Game Development  
 <p align="left"> - 📫 How to reach me aderinbay54@gmail.com
  
 <p align="left"> -  👨‍💻 All of my projects are available at <a href = "https://github.com/AnilDerin">
