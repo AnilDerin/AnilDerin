@@ -34,16 +34,22 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height = 32px > </h2>
 <p align='left'>
 
+<img width ='44px' align='center' src ='https://cdn-icons-png.flaticon.com/512/5969/5969294.png'>
+<img width ='84px' align='center' src ='https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png'>
+
+
+<img width ='44px' align='center' src ='https://cdn.worldvectorlogo.com/logos/kotlin-1.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>  
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
-<img width ='104px' align='center' src ='https://download.logo.wine/logo/Unity_Technologies/Unity_Technologies-Logo.wine.png'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'>  
 
 
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
-<img width ='44px' align='center' src ='https://cdn.worldvectorlogo.com/logos/kotlin-1.svg'>
-<img width ='44px' align='center' src ='https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/300px-Java_Logo.svg.png'>
+
+
+
+
  
  
 
