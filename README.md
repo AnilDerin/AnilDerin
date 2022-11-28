@@ -22,6 +22,9 @@
 <a href = "https://www.instagram.com/aderinbay/"><img width = '56px' align= 'center' src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = 'https://www.twitter.com/aderinbay'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
 
+
+
+
 </p>
 
 
@@ -33,13 +36,7 @@
 
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>  
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
-<img width ='44px' align='center' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/512px-React.svg.png'>
-
-
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>
-
-
+<img width ='104px' align='center' src ='https://download.logo.wine/logo/Unity_Technologies/Unity_Technologies-Logo.wine.png'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'>  
 
 
@@ -47,7 +44,6 @@
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
 <img width ='44px' align='center' src ='https://cdn.worldvectorlogo.com/logos/kotlin-1.svg'>
 <img width ='44px' align='center' src ='https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/300px-Java_Logo.svg.png'>
-<img width ='44px' align='center' src ='https://miro.medium.com/max/1024/1*I6F19w6Lc0sQZWTGP3xigg.png'>
  
  
 
